@@ -1,0 +1,8 @@
+{
+    "name": "FRITZ!Repeater 2400",
+    "standby_power": 4.1,
+    "calculation_strategy": "lut",
+    "measure_method": "manual",
+    "measure_device": "n/a",
+    "measure_description": "based on specs (source: https://avm.de/produkte/wlan-mesh/fritzrepeater-2400/technische-daten/)",
+}
